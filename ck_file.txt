@@ -1,4 +1,0 @@
-hi this  is kalyan i am adding this file to staging area and i will revert back to working area 
-using the git checkout command 
-
-Ex:- git checkout ck_file.txt
